@@ -228,7 +228,11 @@ p{
 
 }
 .container2{
-    display: flex;
+    display: grid;
+    grid-template-columns: repeat(2,3fr);
+    padding: 10px 15px ;
+   box-sizing: border-box;
+   gap: 10px;
 }
 
 .meet-description{
