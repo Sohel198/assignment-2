@@ -234,7 +234,11 @@ p{
 .meet-description{
     color: #FFFFFF;
 }
-
+/* meet start */
+.meet-content{
+    display: grid;
+    grid-template-columns: repeat(2 3fr);
+}
 .meet-pic{
     width: 326px;
     height: 272px;
