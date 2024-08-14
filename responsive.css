@@ -1,6 +1,0 @@
-@media screen and (max-width: 576px) {
-    .about-items{
-        grid-template-columns: repeat(1, 1fr);
-    }
-    
-}

@@ -264,11 +264,7 @@ p{
     
 }
 .footer-container{
-    display: flex;
     justify-content: center;
-    gap: 10px;
-   
-}
-.h3{
     color: #FFFFFF;
 }
+
